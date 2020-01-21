@@ -28,8 +28,13 @@
   <img src="https://user-images.githubusercontent.com/54908803/72817571-c5ad4400-3c48-11ea-9d10-015db2c6576b.png" />
 </p>
 <br/>
+
+
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/54908803/72817637-e1b0e580-3c48-11ea-955a-2f0b472a82f2.png" />
+<img height="320"  src="https://user-images.githubusercontent.com/54908803/72848367-2eb1ad80-3c83-11ea-8ec4-e47bfd405ad6.gif">
+<img height="320"  src="https://user-images.githubusercontent.com/54908803/72848515-88b27300-3c83-11ea-97d1-b4bca80dfc1a.gif">
+<img height="320"  src="https://user-images.githubusercontent.com/54908803/72848544-98ca5280-3c83-11ea-9b90-d102e47356d7.gif">
+<img height="320"  src="https://user-images.githubusercontent.com/54908803/72848570-a54eab00-3c83-11ea-9016-4cde03fe1364.gif">
 </p>
 
 # Como executar o projeto
