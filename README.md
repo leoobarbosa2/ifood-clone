@@ -86,7 +86,7 @@ móveis.
 </p>
 
 ```
-  json-server --host 192.168.11.16 -p 3333 -w
+  json-server --host 192.168.11.16 -p 3333 server.json  -w 
 ```
 
 <p>
